@@ -21,7 +21,6 @@ To run the Golang CRUD API locally, follow these steps:
 6. Run the application using the command `go run main.go`.
 ## Usage
 Once the API is running, you can make HTTP requests to interact with the records in the MySQL database. Use tools like Postman to send requests to the available endpoints.
-By default, the API runs on `http://localhost:'your-port-number'`.
 ## Endpoints
 ### Create a User
 - **Endpoint:** `POST /users`
